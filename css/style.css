@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: rgb(240, 231, 240);
+}
+
+.fa-cheese{
+    color:rgb(255, 208, 0);
+}
+.nav{
+    border: 1px rgb(255, 208, 0) solid;
+}
+.subtitulo{
+    color:rgb(255, 208, 0);
+    font-size:50px;
+}
+
+.fondo-amarillo{
+    background-color: rgb(255, 208, 0);
+}
+
+.btn{
+    background-color: blueviolet;
+    color: white;
+}
